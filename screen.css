@@ -56,3 +56,8 @@ a {
 
 #main {
   padding: 50px; }
+
+  h1 {
+  	color: #ff4539;
+  	font-size: 2em;
+  }
