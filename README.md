@@ -1,1 +1,1 @@
-tylertakagi.github.io
+(c) Tyler Takagi. All Rights Reserved. 
