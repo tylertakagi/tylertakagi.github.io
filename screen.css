@@ -46,18 +46,26 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   display: block; }
 
 body {
-  font-family: impact;
-  color: #2a2a2a; }
+	background-color: black;
+  	font-family: helvetica;
+  	color: #2a2a2a; }
 
 a {
-  color: #0388a6; }
+  color: #ffffff; }
   a:hover {
-    color: #009ce0; }
+    color: #ffff00; }
 
 #main {
   padding: 50px; }
 
   h1 {
-  	color: #ff4539;
+  	color: #ffffff;
   	font-size: 3em;
+  	text-align: center;
+  }
+
+  p {
+  	color: #ffffff;
+  	font-size: 1em;
+  	text-align: center;
   }
