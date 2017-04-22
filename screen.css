@@ -46,7 +46,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   display: block; }
 
 body {
-	background-color: black;
+	background-color: white;
   	font-family: helvetica;
   	color: #2a2a2a; }
 
@@ -59,13 +59,53 @@ a {
   padding: 50px; }
 
   h1 {
-  	color: #ffffff;
+  	color: black;
   	font-size: 3em;
   	text-align: center;
   }
 
+  h2 {
+  	color: black;
+  }
+
   p {
-  	color: #ffffff;
+  	color: black;
   	font-size: 1em;
   	text-align: center;
+  }
+
+  .project {
+  	border: 1px solid red;
+  	padding: 5px;
+  }
+
+  .project {
+  	width: 200px;
+  	height:200px;
+
+  }
+
+ .project h2 {
+ 	font: 5em;
+ 	float: center;
+ }
+
+ .project p {
+ 	text-align: left;
+ 	float: right;
+ }
+
+
+
+
+
+
+
+
+
+
+
+  .project img {
+  	width: 200px;
+  	height: 200px;
   }
